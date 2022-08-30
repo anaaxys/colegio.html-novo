@@ -1,0 +1,70 @@
+body {
+	
+}
+
+#faixada {
+	width: 100%;
+}
+.degrade {
+	background-color: #2879c8;
+    background-image: linear-gradient(160deg, #2879c8 11%, #80D0C7 100%);
+    padding-top: 5%;
+    position: relative;
+
+}
+
+.principal {
+	background: #B0E0E6;
+	padding: 30px;
+}
+
+.titulo-principal {
+	font-style: Georgia;
+	text-align: center;
+	font-size: 70px;
+}
+
+.titulo-centralizado {
+	font-size: 39px;
+	text-align: center;
+}
+
+p {
+	font-size: 21.5px;
+	text-align: center;
+}
+
+#missao {
+	font-size: 28px
+}
+
+em strong {
+	color: #191970;
+}
+
+.itens {
+	font-style: italic;
+}
+
+.EtapasdeFormação {
+	background: #FFFFFF;
+	padding: 80px;
+}
+
+ul {
+	display: inline-block;
+	font-size: 25px;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 15%;
+}
+
+.frase {
+	width: 100%;
+}
+
+.frase-motivacional{
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+}
